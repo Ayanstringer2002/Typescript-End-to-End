@@ -20,3 +20,10 @@ function adden(a: number, b: number){
 console.log(adden(5,10));
 
 // Finally inference means they deduce the return type witouht specifying by the coder.
+
+
+
+
+
+
+
